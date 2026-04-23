@@ -1,0 +1,25 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+}
+
+main {
+    display: flex;
+    gap: 10px;
+}
+
+.progetto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    flex: 1;
+}
+</style>
+
+<!-- Header: contiene nome e ruolo -->
+<header>...</header>
+
+<!-- Main: contiene i progetti -->
+<main>...</main>
+
+<!-- Footer: contatti -->
+<footer>...</footer>
