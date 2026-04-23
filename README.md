@@ -7,3 +7,5 @@
 ### Esercizio 10: 6e65228
 
 ### Esercizio 18: aspirapolvere
+
+### Esercizio 18: w il gioco d'azzardo
