@@ -3,17 +3,9 @@
     --colore-testo: #222222;
     --colore-sfondo: #f5f5f5;
     --colore-link: #e74c3c;
+    --colore-bordo: #dddddd;
 }
 
-body {
-    color: var(--colore-primario);
-    background-color: var(--colore-sfondo);
-}
-
-p {
-    color: var(--colore-testo);
-}
-
-a {
-    color: var(--colore-sfondo); /* BUG */
+div {
+    border: 1px solid var(--colore-bordo);
 }
