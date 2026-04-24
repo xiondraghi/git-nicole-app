@@ -1,7 +1,12 @@
 :root {
     --colore-primario: #3498db;
+    --colore-testo: #222222;
 }
 
 body {
     color: var(--colore-primario);
+}
+
+p {
+    color: var(--colore-testo);
 }
