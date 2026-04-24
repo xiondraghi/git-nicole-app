@@ -1,10 +1,12 @@
 :root {
     --colore-primario: #3498db;
     --colore-testo: #222222;
+    --colore-sfondo: #f5f5f5;
 }
 
 body {
     color: var(--colore-primario);
+    background-color: var(--colore-sfondo);
 }
 
 p {
